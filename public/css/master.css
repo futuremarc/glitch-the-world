@@ -1,0 +1,18 @@
+body, html{
+			height: 100%;
+			margin:0;
+			padding:0;
+		}
+
+		#content{
+			background: #999;
+			height:100%;
+		}
+
+		.centered{
+			display: block;
+  			margin: auto;
+  			position: relative;
+  			top: 40%;
+  			transform: translateY(-50%);
+		}
